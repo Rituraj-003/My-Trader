@@ -46,7 +46,7 @@ npm start
 
 ### Handling API Keys
 
-To keep API keys secure, we use environment variables:
+To keep API keys     secure, we use environment variables:
 
 ```javascript
 const API_KEY = process.env.REACT_APP_API_KEY;
