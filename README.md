@@ -2,7 +2,7 @@
 
 This project provides a comprehensive trading view dashboard, allowing users to search for and view detailed information about stocks, cryptocurrencies, and other financial instruments.
 
-🌐 [**Live Site**](https://viewtrading.netlify.app/)
+🌐 [**Live Site**](https://mytrader.netlify.app/)
 
 
 ## Table of Contents
