@@ -37,7 +37,7 @@ npm start
 
 ## Usage
 
-1. Open the application in your browser.
+1. Open the application in  your browser.
 2. Use the search bar to enter the ticker symbol of the financial instrument you're interested in.
 3. View detailed information about the instrument.
 
